@@ -12,5 +12,10 @@ namespace TestSchool.DAL
         {
 
         }
+        public void Test1()
+        {
+
+        }
     }
+    
 }
