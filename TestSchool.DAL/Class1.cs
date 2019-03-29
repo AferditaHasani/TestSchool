@@ -8,5 +8,9 @@ namespace TestSchool.DAL
 {
     public class Class1
     {
+        public void test2()
+        {
+
+        }
     }
 }
