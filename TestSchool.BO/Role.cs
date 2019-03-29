@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace TestSchool.BO
 {
-    public class Class1
+    public class Role:BaseObject
     {
+        public int ID { get; set; }
+        public string Name { get; set; }
     }
+
 }
